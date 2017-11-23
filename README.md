@@ -1,6 +1,6 @@
 # falconpunch
 
-Literaly [onetwopunch](https://github.com/superkojiman/onetwopunch), but with some lovely music so you don't get board while scanning.
+Literaly [onetwopunch](https://github.com/superkojiman/onetwopunch), but with some lovely background music so you don't get bored while scanning.
 
 ## Usage
 
